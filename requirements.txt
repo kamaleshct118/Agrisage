@@ -1,0 +1,23 @@
+# Core Data Processing
+numpy
+pandas
+
+# API Server
+fastapi
+uvicorn
+pydantic
+
+# Framework & RAG Elements
+langchain
+langchain-groq
+crewai
+crewai-tools
+faiss-cpu
+sentence-transformers
+
+# Evaluation
+ragas
+datasets
+
+# Utilities
+python-dotenv

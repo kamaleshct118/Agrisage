@@ -1,0 +1,31 @@
+# Environments and Secrets
+.env
+.env.*
+.venv/
+venv/
+env/
+ENV/
+
+# Python Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Processed System Build Data
+data/processed/
+*.db
+*.sqlite3
+*.bin
+faiss_index.bin
+metadata.json
+
+# IDE & Editor cache
+.idea/
+.vscode/
+*.swp
+.DS_Store
+
+# Logs
+*.log

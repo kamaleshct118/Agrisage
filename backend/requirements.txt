@@ -1,0 +1,14 @@
+# Core Processing
+numpy
+pandas
+
+# RAG & Embeddings
+sentence-transformers
+faiss-cpu
+
+# LLM Framework & Agents (for later phases)
+langchain
+crewai
+ragas
+python-dotenv
+
